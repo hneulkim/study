@@ -7,3 +7,5 @@
 
 3주차 수업
 -GITHUB, push, pull,test
+
+기말테스트
